@@ -1,0 +1,1 @@
+realiza un programa que genere un número aleatorio del 1 al 100. El usuario debe adivinarlo y el programa le indica si el número es mayor o menor. Al acertar, muestra cuántos intentos usó.
